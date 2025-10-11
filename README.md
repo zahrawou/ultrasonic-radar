@@ -1,5 +1,5 @@
 # What is this ?
-This is an ultrasonic radar project, running an embedded Linux in a SoC, using a single python file, the graphics are drawn onto the Linux framebuffer and can be accessed via VPN client.
+A compact ultrasonic radar implementation running on an embedded Linux SoC, featuring a single Python file architecture that renders graphics directly to the Linux framebuffer with remote access capability via VNC client.
 
 [![Watch the video](https://img.youtube.com/vi/6gdzUYV3WLg/0.jpg)](https://www.youtube.com/watch?v=6gdzUYV3WLg)
 
@@ -55,7 +55,7 @@ SoC Pin 54 → Servo PWM
 ```
 
 # Will this work for my project ?
-The code is designed for easy portability with most parameters configurable at the top of the file. Both PWM and UART interfaces operate at the OS level, typically accessed through Linux device nodes like `/dev/pwm*` and `/dev/tty*`.
+The code is designed for easy portability with most parameters configurable at the top of the file. Both PWM and UART interfaces operate at the OS level, typically accessed through Linux device nodes like `/dev/pwm*` and `/dev/tty*`, but since the script uses the periphery library, that should take care of how to access them.
 
 # How to run ?
 Since I am using Buildroot Linux OS, all the requisites can be installed using its menuconfig, present in the Luckfox pico SDK.
