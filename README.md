@@ -61,8 +61,8 @@ The code is designed for easy portability with most parameters configurable at t
 Since I am using Buildroot Linux OS, all the requisites can be installed using its menuconfig, present in the Luckfox pico SDK.
 
 ## Pre-requisites
-1. Python 3 installed
-2. This lib: `pip install python-periphery`
+1. Python 3
+2. Python libraries: `periphery` and `pyserial`
 3. A framebuffer at `/dev/fb*`
 4. Framebuffer set with a low resolution and 16 bits color: `fbset -g 320 240 320 240 16`
 5. X11 VNC server binary: `x11vnc`
